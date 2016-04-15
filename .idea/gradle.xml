@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\Android\AndroidStudio2.0\gradle\gradle-2.10" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/baseknowledge" />
+            <option value="$PROJECT_DIR$/butterknifedemo" />
+            <option value="$PROJECT_DIR$/dagger2demo" />
+            <option value="$PROJECT_DIR$/imageloaderdemo" />
+            <option value="$PROJECT_DIR$/leakcanarydemo" />
+            <option value="$PROJECT_DIR$/multidexdemo" />
+            <option value="$PROJECT_DIR$/okhttpdemo" />
+            <option value="$PROJECT_DIR$/retrofitdemo" />
+            <option value="$PROJECT_DIR$/rxandroiddemo" />
+            <option value="$PROJECT_DIR$/rxbinding" />
+            <option value="$PROJECT_DIR$/sugarormdemo" />
+            <option value="$PROJECT_DIR$/volleydemo" />
+            <option value="$PROJECT_DIR$/zxing" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/baseknowledge" />
+            <option value="$PROJECT_DIR$/butterknifedemo" />
+            <option value="$PROJECT_DIR$/dagger2demo" />
+            <option value="$PROJECT_DIR$/imageloaderdemo" />
+            <option value="$PROJECT_DIR$/leakcanarydemo" />
+            <option value="$PROJECT_DIR$/multidexdemo" />
+            <option value="$PROJECT_DIR$/okhttpdemo" />
+            <option value="$PROJECT_DIR$/retrofitdemo" />
+            <option value="$PROJECT_DIR$/rxandroiddemo" />
+            <option value="$PROJECT_DIR$/rxbinding" />
+            <option value="$PROJECT_DIR$/sugarormdemo" />
+            <option value="$PROJECT_DIR$/volleydemo" />
+            <option value="$PROJECT_DIR$/zxing" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
