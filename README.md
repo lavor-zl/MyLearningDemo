@@ -6,7 +6,7 @@
 | [butterknife](https://github.com/JakeWharton/butterknife)  | butterknifedemo |视图注入框架|
 | [dagger2](https://github.com/google/dagger)      | dagger2demo      |依赖注入的库|
 | [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | imageloaderdemo |图片缓存     |
-| [leakcanary](https://github.com/square/leakcanary)       | leakcanarydemo |内存溢出检测 |
+| [leakcanary](https://github.com/square/leakcanary)       | leakcanarydemo |内存泄漏检测 |
 | [okhttp](https://github.com/square/okhttp)     | okhttpdemo      | 开源HTTP和SPDY客户端开发包|
 | [retrofit](https://github.com/square/retrofit) | retrofitdemo      |REST客户端开发包|
 | [rxandroid](https://github.com/ReactiveX/RxAndroid)      | rxandroiddemo |响应式编程|
